@@ -5,6 +5,8 @@
 
 body{
   height: 100vh;
+  display: grid;
+  place-items: center;
   background-image: linear-gradient(#bfbbfc, #6660ff);
   font-family: 'poppins';
 }
